@@ -1,1 +1,3 @@
 # Mongodb_express
+
+In this small projects i have learnt using mongodb with express and created a chat based app in which we are sending a message delete it and edit it ........
